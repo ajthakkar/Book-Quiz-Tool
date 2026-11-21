@@ -40,3 +40,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw Gutenberg downloads (npm run books:fetch recreates them)
+/books/raw/

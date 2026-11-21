@@ -1,34 +1,20 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter, Source_Serif_4 } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+const sans = Inter({ variable: "--font-sans-face", subsets: ["latin"] });
+const serif = Source_Serif_4({ variable: "--font-serif-face", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BookQuiz — Comprehension Tests That Actually Work",
+  title: "Book Quiz Tool",
   description:
-    "Generate level-appropriate, skill-targeted reading comprehension tests for any book. Built for parents and students who want real improvement.",
+    "Reading-comprehension quizzes written from the full text of public-domain books, with every answer checked against the page it came from.",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en">
+      <body className={`${sans.variable} ${serif.variable} min-h-screen antialiased`}>{children}</body>
     </html>
   );
 }

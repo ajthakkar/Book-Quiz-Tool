@@ -1,0 +1,400 @@
+[
+ {
+  "id": "oz-1",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 1,
+  "stem": "When Dorothy looks out from her doorway in Kansas, what does she see on every side?",
+  "choices": [
+   "A great gray prairie",
+   "Tall green cornfields",
+   "A thick, dark forest",
+   "Hills covered in flowers"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 1,
+    "quote": "she could see nothing but the great gray prairie on every side"
+   }
+  ],
+  "explanation": "Kansas is described as gray and flat, with not a tree or a house in sight. That makes the colors of Oz stand out later.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-2",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 2,
+  "stem": "What kind of shoes is the Wicked Witch of the East wearing when Dorothy's house lands on her?",
+  "choices": [
+   "Silver shoes",
+   "Ruby slippers",
+   "Golden boots",
+   "Glass slippers"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 2,
+    "quote": "two feet were sticking out, shod in silver shoes with pointed toes"
+   }
+  ],
+  "explanation": "In the book the shoes are silver. The ruby slippers come from the 1939 movie, so this one checks who read the book.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-3",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "vocab",
+  "level": 2,
+  "chapter": 2,
+  "stem": "\"Cried Dorothy, clasping her hands together in dismay.\" What does dismay mean here?",
+  "choices": [
+   "Worry and shock",
+   "Excitement and joy",
+   "Boredom",
+   "Sleepiness"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 2,
+    "quote": "cried Dorothy, clasping her hands together in dismay. “The house must have fallen on her. Whatever shall we do?”"
+   }
+  ],
+  "explanation": "Dorothy has just realized her house fell on someone and asks what to do. Clasping her hands and crying out shows she is shocked and upset.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-4",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 2,
+  "stem": "What does the Good Witch of the North give Dorothy to keep her safe?",
+  "choices": [
+   "A kiss on the forehead",
+   "A magic wand to carry",
+   "A golden cap to wear",
+   "A map of the yellow road"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 2,
+    "quote": "She came close to Dorothy and kissed her gently on the forehead. Where her lips touched the girl they left a round, shining mark"
+   }
+  ],
+  "explanation": "The kiss leaves a shining mark, and no one dares hurt someone the Witch of the North has kissed.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-5",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "cause",
+  "level": 2,
+  "chapter": 5,
+  "stem": "How did the Tin Woodman end up made of tin?",
+  "choices": [
+   "The Wicked Witch enchanted his axe, so it kept cutting him",
+   "He fell into a river and rusted all over",
+   "The Wizard turned him to tin as a punishment",
+   "He was built by a tinsmith to guard the forest"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 5,
+    "quote": "Thereupon the Wicked Witch enchanted my axe"
+   }
+  ],
+  "explanation": "Each time the axe cut off part of him, a tinsmith replaced it with tin, until he was tin all over.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-6",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "cause",
+  "level": 2,
+  "chapter": 8,
+  "stem": "Why do Dorothy and the Lion fall asleep in the field of flowers?",
+  "choices": [
+   "The smell of so many poppies makes anyone who breathes it sleep",
+   "They walked all night and were tired out",
+   "The Wicked Witch cast a sleeping spell on them",
+   "The Scarecrow sang them a lullaby"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 8,
+    "quote": "their odor is so powerful that anyone who breathes it falls asleep"
+   }
+  ],
+  "explanation": "The poppies' smell puts people and animals to sleep. The Scarecrow and the Tin Woodman are fine because they don't breathe.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-7",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 10,
+  "stem": "What does the Guardian of the Gate make everyone wear in the Emerald City?",
+  "choices": [
+   "Green spectacles",
+   "Green hats",
+   "Silver shoes",
+   "Golden crowns"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 10,
+    "quote": "wear spectacles the brightness and glory of the Emerald City would blind you"
+   }
+  ],
+  "explanation": "The Guardian says the city is so bright it would blind them, so he locks green spectacles on everyone.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-8",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "character",
+  "level": 1,
+  "chapter": 11,
+  "stem": "When Dorothy goes alone to see Oz in the throne room, what does he look like?",
+  "choices": [
+   "An enormous head with no body",
+   "A beautiful lady with wings",
+   "A terrible beast",
+   "A ball of fire"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 11,
+    "quote": "In the center of the chair was an enormous Head, without a body to support it or any arms or legs whatever."
+   }
+  ],
+  "explanation": "Oz appears in a different shape to each visitor. To Dorothy he is a giant head; the others see a lady, a beast, and a ball of fire.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-9",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "cause",
+  "level": 2,
+  "chapter": 12,
+  "stem": "What makes Dorothy throw the bucket of water on the Wicked Witch of the West?",
+  "choices": [
+   "The Witch tricked her and took one of her silver shoes",
+   "The Witch was about to hurt the Lion",
+   "Glinda told her that water would melt the Witch",
+   "The Witch set the castle kitchen on fire"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 12,
+    "quote": "She placed a bar of iron in the middle of the kitchen floor, and then by her magic arts made the iron invisible to human eyes."
+   },
+   {
+    "chapter": 12,
+    "quote": "This made Dorothy so very angry that she picked up the bucket of water that stood near and dashed it over the Witch"
+   }
+  ],
+  "explanation": "The Witch tripped Dorothy with an invisible iron bar and grabbed a shoe. Dorothy threw the water out of anger, not knowing it would melt her.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-10",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "inference",
+  "level": 3,
+  "chapter": 15,
+  "stem": "Oz admits the Emerald City is \"no more\" green than any other city. Why does it look green to everyone?",
+  "choices": [
+   "He made everyone wear green spectacles",
+   "It is built from real emeralds",
+   "A spell turns everything green at night",
+   "The sun in Oz shines green"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 15,
+    "quote": "I put green spectacles on all the people, so that everything they saw was green"
+   }
+  ],
+  "explanation": "The city's magic is a trick. Like the Wizard himself, it seems wonderful only because of how people are made to see it.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-11",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 15,
+  "stem": "When the Scarecrow finds out Oz is just a common man, what does he call him?",
+  "choices": [
+   "A humbug",
+   "A villain",
+   "A coward",
+   "A wizard after all"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 15,
+    "quote": "“you’re a humbug.” “Exactly so!” declared the little man"
+   }
+  ],
+  "explanation": "A humbug is someone who fools people. Oz happily agrees that he is one.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-12",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "theme",
+  "level": 3,
+  "chapter": 16,
+  "stem": "Oz fills the Scarecrow's head with bran, pins, and needles and calls them \"bran-new brains.\" What does this suggest?",
+  "choices": [
+   "He already had the cleverness; he needed to believe it",
+   "Oz really has strong magic and fixed the Scarecrow",
+   "Brains can only be found inside the Emerald City",
+   "The Scarecrow will never become clever at all"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 16,
+    "quote": "Hereafter you will be a great man, for I have given you a lot of bran-new brains."
+   }
+  ],
+  "explanation": "The Scarecrow had been coming up with the group's best ideas the whole trip. The bran 'brains' are a joke; what changes is his belief in himself.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-13",
+  "bookId": "wizard-of-oz",
+  "type": "choice",
+  "skill": "detail",
+  "level": 1,
+  "chapter": 23,
+  "stem": "How do the Silver Shoes carry Dorothy home?",
+  "choices": [
+   "She knocks the heels together three times and gives a command",
+   "She clicks them together while saying a magic poem aloud",
+   "She throws them high into the air when the sun rises",
+   "She walks backward three steps in them and makes a wish"
+  ],
+  "answer": 0,
+  "evidence": [
+   {
+    "chapter": 23,
+    "quote": "All you have to do is to knock the heels together three times and command the shoes to carry you wherever you wish to go."
+   }
+  ],
+  "explanation": "Glinda explains that the shoes can take her anywhere in three steps once she knocks the heels together and gives the command.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-order-1",
+  "bookId": "wizard-of-oz",
+  "type": "order",
+  "skill": "sequence",
+  "level": 1,
+  "chapter": 10,
+  "stem": "Put these events in the order they happen.",
+  "events": [
+   {
+    "text": "Dorothy helps the Scarecrow down from his pole",
+    "evidence": {
+     "chapter": 3,
+     "quote": "“We will go to the Emerald City and ask the Great Oz how to get back to Kansas again.”"
+    }
+   },
+   {
+    "text": "The Lion knocks the Scarecrow into the road",
+    "evidence": {
+     "chapter": 6,
+     "quote": "With one blow of his paw he sent the Scarecrow spinning over and over to the edge of the road"
+    }
+   },
+   {
+    "text": "Dorothy breathes in the scent of the scarlet poppies",
+    "evidence": {
+     "chapter": 8,
+     "quote": "as she breathed in the spicy scent of the bright flowers"
+    }
+   },
+   {
+    "text": "The Guardian of the Gate hands out spectacles",
+    "evidence": {
+     "chapter": 10,
+     "quote": "wear spectacles the brightness and glory of the Emerald City would blind you"
+    }
+   }
+  ],
+  "explanation": "The trip goes: the Scarecrow, the Lion, the poppy field, and then the gate of the Emerald City.",
+  "source": "seed"
+ },
+ {
+  "id": "oz-order-2",
+  "bookId": "wizard-of-oz",
+  "type": "order",
+  "skill": "sequence",
+  "level": 2,
+  "chapter": 24,
+  "stem": "Put these events in the order they happen.",
+  "events": [
+   {
+    "text": "Dorothy sees Oz as a giant head",
+    "evidence": {
+     "chapter": 11,
+     "quote": "In the center of the chair was an enormous Head, without a body to support it"
+    }
+   },
+   {
+    "text": "Dorothy throws water on the Wicked Witch of the West",
+    "evidence": {
+     "chapter": 12,
+     "quote": "she picked up the bucket of water that stood near and dashed it over the Witch"
+    }
+   },
+   {
+    "text": "The Scarecrow calls Oz a humbug",
+    "evidence": {
+     "chapter": 15,
+     "quote": "“you’re a humbug.” “Exactly so!” declared the little man"
+    }
+   },
+   {
+    "text": "Dorothy is home and hugs Aunt Em",
+    "evidence": {
+     "chapter": 24,
+     "quote": "“And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”"
+    }
+   }
+  ],
+  "explanation": "Dorothy meets Oz, is sent to defeat the Witch, comes back and uncovers the humbug, and finally gets home.",
+  "source": "seed"
+ }
+]

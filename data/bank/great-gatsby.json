@@ -1,0 +1,459 @@
+{
+ "book": {
+  "id": "great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "year": 1925,
+  "gutenbergId": 64317,
+  "grades": [
+   10,
+   12
+  ],
+  "stats": {
+   "words": 48617,
+   "sentences": 3377,
+   "fkGrade": 6.1,
+   "wordsPerSentence": 14.4,
+   "syllablesPerWord": 1.36,
+   "longWords": 0.075
+  },
+  "chapters": [
+   {
+    "n": 1,
+    "title": "Chapter I"
+   },
+   {
+    "n": 2,
+    "title": "Chapter II"
+   },
+   {
+    "n": 3,
+    "title": "Chapter III"
+   },
+   {
+    "n": 4,
+    "title": "Chapter IV"
+   },
+   {
+    "n": 5,
+    "title": "Chapter V"
+   },
+   {
+    "n": 6,
+    "title": "Chapter VI"
+   },
+   {
+    "n": 7,
+    "title": "Chapter VII"
+   },
+   {
+    "n": 8,
+    "title": "Chapter VIII"
+   },
+   {
+    "n": 9,
+    "title": "Chapter IX"
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "gatsby-1",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 1,
+   "stem": "At the end of Chapter I, what is Gatsby reaching toward across the water?",
+   "choices": [
+    "A green light at the end of a dock",
+    "A lighthouse on a rocky point",
+    "A lit window in Tom's house",
+    "A boat sailing across the bay"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "a single green light, minute and far away, that might have been the end of a dock"
+    }
+   ],
+   "explanation": "Nick later learns the light is at the end of Daisy's dock. It comes to stand for everything Gatsby is reaching for.",
+   "source": "seed",
+   "position": 0.122
+  },
+  {
+   "id": "gatsby-2",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "vocab",
+   "level": 2,
+   "chapter": 1,
+   "stem": "Nick says Tom has \"a rather hard mouth and a supercilious manner.\" What does supercilious mean?",
+   "choices": [
+    "Acting superior to others",
+    "Shy and quick to blush",
+    "Kind and very patient",
+    "Easily confused by others"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "a rather hard mouth and a supercilious manner. Two shining arrogant eyes had established dominance over his face"
+    }
+   ],
+   "explanation": "The next sentence calls his eyes 'arrogant' and says they show 'dominance.' Supercilious means looking down on others.",
+   "source": "seed",
+   "position": 0.038
+  },
+  {
+   "id": "gatsby-3",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "character",
+   "level": 2,
+   "chapter": 1,
+   "stem": "Daisy hopes her daughter will be \"a beautiful little fool.\" What does this show about Daisy?",
+   "choices": [
+    "She thinks women are better off not knowing much",
+    "She is proud her daughter is so clever",
+    "She wants her daughter to become famous",
+    "She thinks her daughter is unkind"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "that’s the best thing a girl can be in this world, a beautiful little fool"
+    }
+   ],
+   "explanation": "Daisy says everything is 'terrible anyhow.' She seems to believe a woman in her world is happiest if she doesn't see it clearly.",
+   "source": "seed",
+   "position": 0.099
+  },
+  {
+   "id": "gatsby-4",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 2,
+   "stem": "What watches over the valley of ashes from a billboard?",
+   "choices": [
+    "The eyes of Doctor T. J. Eckleburg",
+    "A painted statue of a soldier",
+    "A picture of Gatsby's mansion",
+    "The face of a smiling movie star"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 2,
+     "quote": "above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg"
+    }
+   ],
+   "explanation": "The faded eyes of an old eye-doctor's ad look out over the ashes, like someone watching everything that happens.",
+   "source": "seed",
+   "position": 0.126
+  },
+  {
+   "id": "gatsby-5",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "inference",
+   "level": 3,
+   "chapter": 3,
+   "stem": "A guest in Gatsby's library is amazed the books are \"absolutely real—have pages and everything.\" Why does this matter?",
+   "choices": [
+    "Gatsby's world feels like a stage set, so real things surprise",
+    "Gatsby is a scholar who reads every book",
+    "The guest is planning to steal the books",
+    "Books were rare and costly in the 1920s"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 3,
+     "quote": "“Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard.”"
+    }
+   ],
+   "explanation": "He expected props. Even the man who admires the books assumes Gatsby's life is a performance.",
+   "source": "seed",
+   "position": 0.25
+  },
+  {
+   "id": "gatsby-6",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 4,
+   "stem": "Who does Gatsby say \"fixed the World's Series back in 1919\"?",
+   "choices": [
+    "Meyer Wolfshiem",
+    "Tom Buchanan",
+    "George Wilson",
+    "Jordan Baker"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 4,
+     "quote": "“He’s the man who fixed the World’s Series back in 1919.”"
+    }
+   ],
+   "explanation": "Gatsby's business partner is a gambler and a criminal, a hint about where Gatsby's money comes from.",
+   "source": "seed",
+   "position": 0.404
+  },
+  {
+   "id": "gatsby-7",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 4,
+   "stem": "According to Jordan, why did Gatsby buy his house in West Egg?",
+   "choices": [
+    "So Daisy would be just across the bay",
+    "It was the biggest house on Long Island",
+    "To be close to Wolfshiem's business",
+    "Because Nick lived right next door"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 4,
+     "quote": "“Gatsby bought that house so that Daisy would be just across the bay.”"
+    }
+   ],
+   "explanation": "The house, the parties, and the green light all point to one goal: Daisy.",
+   "source": "seed",
+   "position": 0.435
+  },
+  {
+   "id": "gatsby-8",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "inference",
+   "level": 3,
+   "chapter": 5,
+   "stem": "Daisy cries into Gatsby's shirts and says she's \"never seen such—such beautiful shirts before.\" What is she really upset about?",
+   "choices": [
+    "The life she could have had with Gatsby",
+    "She dislikes the colors of the shirts",
+    "She is jealous of all of Gatsby's money",
+    "She is tired from the long drive over"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 5,
+     "quote": "“It makes me sad because I’ve never seen such—such beautiful shirts before.”"
+    }
+   ],
+   "explanation": "The shirts stand for the wealth Gatsby built to win her. Seeing it all at once, five years too late, overwhelms her.",
+   "source": "seed",
+   "position": 0.512
+  },
+  {
+   "id": "gatsby-9",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 6,
+   "stem": "What was Gatsby's real name?",
+   "choices": [
+    "James Gatz",
+    "Jay Gordon",
+    "Jim Gatsworth",
+    "James Gates"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 6,
+     "quote": "James Gatz—that was really, or at least legally, his name."
+    }
+   ],
+   "explanation": "James Gatz of North Dakota invented 'Jay Gatsby' at seventeen.",
+   "source": "seed",
+   "position": 0.537
+  },
+  {
+   "id": "gatsby-10",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "character",
+   "level": 2,
+   "chapter": 6,
+   "stem": "Nick tells Gatsby, \"You can't repeat the past.\" What does Gatsby's answer show?",
+   "choices": [
+    "He believes he can win Daisy back as before",
+    "He agrees the past is gone for good",
+    "He wants to forget about Daisy",
+    "He plans to move back home west"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 6,
+     "quote": "“Can’t repeat the past?” he cried incredulously. “Why of course you can!”"
+    }
+   ],
+   "explanation": "Gatsby wants Daisy to say she never loved Tom, as if the last five years could be erased.",
+   "source": "seed",
+   "position": 0.609
+  },
+  {
+   "id": "gatsby-11",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "theme",
+   "level": 3,
+   "chapter": 7,
+   "stem": "Gatsby says Daisy's \"voice is full of money.\" What does he mean?",
+   "choices": [
+    "Her charm is bound up with wealth and status",
+    "She talks about money all of the time",
+    "She has a loud and ringing voice",
+    "She owes many people a lot of money"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 7,
+     "quote": "“Her voice is full of money,” he said suddenly."
+    }
+   ],
+   "explanation": "Nick realizes this is 'the inexhaustible charm' of her voice. Part of what Gatsby loves in Daisy is the world of money she belongs to.",
+   "source": "seed",
+   "position": 0.657
+  },
+  {
+   "id": "gatsby-12",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "detail",
+   "level": 2,
+   "chapter": 7,
+   "stem": "Who was driving Gatsby's car when it struck Myrtle Wilson?",
+   "choices": [
+    "Daisy",
+    "Gatsby",
+    "Tom",
+    "Jordan"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 7,
+     "quote": "“Was Daisy driving?” “Yes,” he said after a moment, “but of course I’ll say I was.”"
+    }
+   ],
+   "explanation": "Gatsby tells Nick that Daisy was driving, and that he'll take the blame for her.",
+   "source": "seed",
+   "position": 0.788
+  },
+  {
+   "id": "gatsby-13",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 9,
+   "stem": "How did George Wilson find his way to Gatsby?",
+   "choices": [
+    "Tom told him who owned the car",
+    "Daisy sent him to Gatsby's house",
+    "Wolfshiem paid him to go there",
+    "He saw Gatsby driving that day"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 9,
+     "quote": "He was crazy enough to kill me if I hadn’t told him who owned the car."
+    }
+   ],
+   "explanation": "Tom admits to Nick that he told Wilson the yellow car was Gatsby's, sending Wilson after him.",
+   "source": "seed",
+   "position": 0.984
+  },
+  {
+   "id": "gatsby-14",
+   "bookId": "great-gatsby",
+   "type": "choice",
+   "skill": "theme",
+   "level": 3,
+   "chapter": 9,
+   "stem": "The novel ends: \"So we beat on, boats against the current, borne back ceaselessly into the past.\" What does this suggest?",
+   "choices": [
+    "People push forward but the past keeps pulling them back",
+    "Rowing is the best way to cross the bay",
+    "Nick has decided to become a sailor",
+    "The future is always easy to reach"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 9,
+     "quote": "So we beat on, boats against the current, borne back ceaselessly into the past."
+    }
+   ],
+   "explanation": "Like Gatsby, everyone keeps reaching for something ahead while being dragged back by what has already happened.",
+   "source": "seed",
+   "position": 1
+  },
+  {
+   "id": "gatsby-order-1",
+   "bookId": "great-gatsby",
+   "type": "order",
+   "skill": "sequence",
+   "level": 2,
+   "chapter": 7,
+   "stem": "Put these events in the order they happen.",
+   "events": [
+    {
+     "text": "Nick sees Gatsby reaching toward a green light",
+     "evidence": {
+      "chapter": 1,
+      "quote": "a single green light, minute and far away, that might have been the end of a dock"
+     }
+    },
+    {
+     "text": "A guest finds Gatsby's books are real",
+     "evidence": {
+      "chapter": 3,
+      "quote": "Absolutely real—have pages and everything."
+     }
+    },
+    {
+     "text": "Daisy cries over Gatsby's shirts",
+     "evidence": {
+      "chapter": 5,
+      "quote": "It makes me sad because I’ve never seen such—such beautiful shirts before."
+     }
+    },
+    {
+     "text": "Gatsby admits Daisy was driving",
+     "evidence": {
+      "chapter": 7,
+      "quote": "“Was Daisy driving?” “Yes,” he said after a moment"
+     }
+    }
+   ],
+   "explanation": "Gatsby's longing, his show of wealth, the reunion, and the crash that ends it.",
+   "source": "seed",
+   "order": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "position": 0.122
+  }
+ ]
+}

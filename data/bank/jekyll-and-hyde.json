@@ -1,0 +1,461 @@
+{
+ "book": {
+  "id": "jekyll-and-hyde",
+  "title": "Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "year": 1886,
+  "gutenbergId": 43,
+  "grades": [
+   9,
+   12
+  ],
+  "stats": {
+   "words": 25687,
+   "sentences": 1271,
+   "fkGrade": 8.1,
+   "wordsPerSentence": 20.2,
+   "syllablesPerWord": 1.34,
+   "longWords": 0.074
+  },
+  "chapters": [
+   {
+    "n": 1,
+    "title": "Story of the Door"
+   },
+   {
+    "n": 2,
+    "title": "Search for Mr. Hyde"
+   },
+   {
+    "n": 3,
+    "title": "Dr. Jekyll Was Quite at Ease"
+   },
+   {
+    "n": 4,
+    "title": "The Carew Murder Case"
+   },
+   {
+    "n": 5,
+    "title": "Incident of the Letter"
+   },
+   {
+    "n": 6,
+    "title": "Incident of Dr. Lanyon"
+   },
+   {
+    "n": 7,
+    "title": "Incident at the Window"
+   },
+   {
+    "n": 8,
+    "title": "The Last Night"
+   },
+   {
+    "n": 9,
+    "title": "Dr. Lanyon’s Narrative"
+   },
+   {
+    "n": 10,
+    "title": "Henry Jekyll’s Full Statement of the Case"
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "jekyll-1",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 1,
+   "stem": "In Enfield's story, what does Hyde do to the little girl he runs into?",
+   "choices": [
+    "Tramples over her and walks on",
+    "Steals the money she carried",
+    "Pushes her into the river",
+    "Chases her across the square"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "the man trampled calmly over the child’s body and left her screaming on the ground"
+    }
+   ],
+   "explanation": "What shocks Enfield is how calm it is: Hyde hurts the child without any feeling at all.",
+   "source": "seed",
+   "position": 0.037
+  },
+  {
+   "id": "jekyll-2",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "inference",
+   "level": 2,
+   "chapter": 1,
+   "stem": "Why is the cheque Hyde uses to pay the girl's family so suspicious?",
+   "choices": [
+    "It carries the name of a respected man",
+    "It is for far too little money",
+    "It is written in a foreign language",
+    "It is dated many years earlier"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "drawn payable to bearer and signed with a name that I can’t mention"
+    }
+   ],
+   "explanation": "Enfield won't say the name, but it belongs to someone well known and respectable. Why would that man pay for Hyde?",
+   "source": "seed",
+   "position": 0.056
+  },
+  {
+   "id": "jekyll-3",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "character",
+   "level": 2,
+   "chapter": 1,
+   "stem": "How do people react when they see Hyde?",
+   "choices": [
+    "They loathe him but can't say why",
+    "They pity him for some illness",
+    "They find him handsome and kind",
+    "They barely notice him at all"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "he gives a strong feeling of deformity, although I couldn’t specify the point"
+    }
+   ],
+   "explanation": "Nobody can name what's wrong with Hyde, but everyone feels it. The evil shows without being visible.",
+   "source": "seed",
+   "position": 0.083
+  },
+  {
+   "id": "jekyll-4",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 2,
+   "stem": "Why does Jekyll's will trouble Utterson so much?",
+   "choices": [
+    "It gives everything to Hyde",
+    "It gives everything to Lanyon",
+    "It was never signed",
+    "It names Utterson as heir"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 2,
+     "quote": "all his possessions were to pass into the hands of his “friend and benefactor Edward Hyde,”"
+    }
+   ],
+   "explanation": "The will also gives Hyde everything if Jekyll simply disappears, which makes Utterson fear Hyde has some hold over Jekyll.",
+   "source": "seed",
+   "position": 0.099
+  },
+  {
+   "id": "jekyll-5",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "vocab",
+   "level": 2,
+   "chapter": 2,
+   "stem": "Utterson says of Hyde, \"Something troglodytic, shall we say?\" What does troglodytic mean?",
+   "choices": [
+    "Like a primitive cave-dweller",
+    "Like a polite gentleman",
+    "Like a sick old man",
+    "Like a talented actor"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 2,
+     "quote": "God bless me, the man seems hardly human! Something troglodytic, shall we say?"
+    }
+   ],
+   "explanation": "Right before it, Utterson says Hyde 'seems hardly human.' A troglodyte is a cave-dweller, someone primitive and less than civilized.",
+   "source": "seed",
+   "position": 0.177
+  },
+  {
+   "id": "jekyll-6",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "inference",
+   "level": 3,
+   "chapter": 2,
+   "stem": "Utterson thinks, \"If he be Mr. Hyde, I shall be Mr. Seek.\" What does he mean?",
+   "choices": [
+    "He will hunt Hyde until he finds him",
+    "He will hide from Hyde out of fear",
+    "He wants to play a game with Hyde",
+    "He will ask Jekyll to find Hyde"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 2,
+     "quote": "“If he be Mr. Hyde,” he had thought, “I shall be Mr. Seek.”"
+    }
+   ],
+   "explanation": "It's a pun on hide-and-seek. Utterson watches the door day and night until he finally meets Hyde.",
+   "source": "seed",
+   "position": 0.144
+  },
+  {
+   "id": "jekyll-7",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 4,
+   "stem": "How does Hyde kill Sir Danvers Carew?",
+   "choices": [
+    "He clubs him with a heavy cane",
+    "He poisons his evening drink",
+    "He pushes him off a bridge",
+    "He shoots him in the street"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 4,
+     "quote": "Mr. Hyde broke out of all bounds and clubbed him to the earth"
+    }
+   ],
+   "explanation": "A maid sees Hyde beat the old man with a heavy stick, so hard the stick breaks.",
+   "source": "seed",
+   "position": 0.254
+  },
+  {
+   "id": "jekyll-8",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "inference",
+   "level": 3,
+   "chapter": 5,
+   "stem": "Guest notices that Hyde's handwriting and Jekyll's are \"in many points identical: only differently sloped.\" What does this suggest?",
+   "choices": [
+    "Jekyll may have written as Hyde",
+    "Hyde forged Utterson's signature",
+    "Guest wrote the note himself",
+    "The note came from Lanyon"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 5,
+     "quote": "the two hands are in many points identical: only differently sloped"
+    }
+   ],
+   "explanation": "Utterson fears Jekyll forged a note for a murderer. The real answer is stranger: the same hand wrote both.",
+   "source": "seed",
+   "position": 0.365
+  },
+  {
+   "id": "jekyll-9",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 6,
+   "stem": "What does Dr. Lanyon tell Utterson has happened to him?",
+   "choices": [
+    "He has had a shock he won't survive",
+    "He has caught a fever from a patient",
+    "He has lost all of his money",
+    "He has quarrelled with the police"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 6,
+     "quote": "“I have had a shock,” he said, “and I shall never recover. It is a question of weeks.”"
+    }
+   ],
+   "explanation": "Lanyon won't say what he saw. Its explanation comes later, in his letter.",
+   "source": "seed",
+   "position": 0.39
+  },
+  {
+   "id": "jekyll-10",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 8,
+   "stem": "When Utterson and Poole break into the cabinet, what is the dead Hyde wearing?",
+   "choices": [
+    "Clothes far too large for him",
+    "A doctor's white coat",
+    "A soldier's uniform",
+    "A heavy black cloak"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 8,
+     "quote": "He was dressed in clothes far too large for him, clothes of the doctor’s bigness"
+    }
+   ],
+   "explanation": "Hyde is wearing Jekyll's clothes, a strong clue that the two are really one man.",
+   "source": "seed",
+   "position": 0.573
+  },
+  {
+   "id": "jekyll-11",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "theme",
+   "level": 3,
+   "chapter": 10,
+   "stem": "Jekyll writes that \"man is not truly one, but truly two.\" What idea is the novel built on?",
+   "choices": [
+    "Every person has a good and an evil side",
+    "Science can make anyone a better person",
+    "Some people are simply born evil",
+    "Friendship can save a person from evil"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 10,
+     "quote": "that man is not truly one, but truly two"
+    }
+   ],
+   "explanation": "Jekyll's experiment tries to separate the two sides. Instead, the evil side takes over.",
+   "source": "seed",
+   "position": 0.743
+  },
+  {
+   "id": "jekyll-12",
+   "bookId": "jekyll-and-hyde",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 10,
+   "stem": "Why can't Jekyll make more of the drug that turns him back?",
+   "choices": [
+    "The first batch had an unknown impurity",
+    "Poole refused to buy more chemicals",
+    "Lanyon burned all of his notes",
+    "The police seized his laboratory"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 10,
+     "quote": "my first supply was impure, and that it was that unknown impurity which lent efficacy to the draught"
+    }
+   ],
+   "explanation": "The new salt doesn't work. The original only worked because of an impurity he can never find again.",
+   "source": "seed",
+   "position": 0.989
+  },
+  {
+   "id": "jekyll-order-1",
+   "bookId": "jekyll-and-hyde",
+   "type": "order",
+   "skill": "sequence",
+   "level": 1,
+   "chapter": 6,
+   "stem": "Put these events in the order they happen.",
+   "events": [
+    {
+     "text": "Enfield tells how Hyde trampled a child",
+     "evidence": {
+      "chapter": 1,
+      "quote": "the man trampled calmly over the child’s body"
+     }
+    },
+    {
+     "text": "Utterson decides to be \"Mr. Seek\"",
+     "evidence": {
+      "chapter": 2,
+      "quote": "“If he be Mr. Hyde,” he had thought, “I shall be Mr. Seek.”"
+     }
+    },
+    {
+     "text": "Hyde clubs Sir Danvers Carew",
+     "evidence": {
+      "chapter": 4,
+      "quote": "Mr. Hyde broke out of all bounds and clubbed him to the earth"
+     }
+    },
+    {
+     "text": "Lanyon says he has had a shock he won't recover from",
+     "evidence": {
+      "chapter": 6,
+      "quote": "“I have had a shock,” he said, “and I shall never recover.”"
+     }
+    }
+   ],
+   "explanation": "The mystery builds: a cruel act, Utterson's search, a murder, and a friend destroyed by what he saw.",
+   "source": "seed",
+   "order": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "position": 0.037
+  },
+  {
+   "id": "jekyll-order-2",
+   "bookId": "jekyll-and-hyde",
+   "type": "order",
+   "skill": "sequence",
+   "level": 2,
+   "chapter": 10,
+   "stem": "Put these events in the order they are told.",
+   "events": [
+    {
+     "text": "Utterson reads that Jekyll's will leaves everything to Hyde",
+     "evidence": {
+      "chapter": 2,
+      "quote": "all his possessions were to pass into the hands of his “friend and benefactor Edward Hyde,”"
+     }
+    },
+    {
+     "text": "Guest compares the two handwritings",
+     "evidence": {
+      "chapter": 5,
+      "quote": "the two hands are in many points identical: only differently sloped"
+     }
+    },
+    {
+     "text": "Hyde is found dead in clothes far too large",
+     "evidence": {
+      "chapter": 8,
+      "quote": "He was dressed in clothes far too large for him"
+     }
+    },
+    {
+     "text": "Jekyll writes that man is truly two",
+     "evidence": {
+      "chapter": 10,
+      "quote": "that man is not truly one, but truly two"
+     }
+    }
+   ],
+   "explanation": "The clues come first and the explanation last: the book tells the story as a mystery, with Jekyll's confession at the end.",
+   "source": "seed",
+   "order": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "position": 0.099
+  }
+ ]
+}

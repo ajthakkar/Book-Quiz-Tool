@@ -1,0 +1,424 @@
+{
+ "book": {
+  "id": "call-of-the-wild",
+  "title": "The Call of the Wild",
+  "author": "Jack London",
+  "year": 1903,
+  "gutenbergId": 215,
+  "grades": [
+   6,
+   8
+  ],
+  "stats": {
+   "words": 32087,
+   "sentences": 1674,
+   "fkGrade": 7.3,
+   "wordsPerSentence": 19.2,
+   "syllablesPerWord": 1.31,
+   "longWords": 0.056
+  },
+  "chapters": [
+   {
+    "n": 1,
+    "title": "Chapter I. Into the Primitive"
+   },
+   {
+    "n": 2,
+    "title": "Chapter II. The Law of Club and Fang"
+   },
+   {
+    "n": 3,
+    "title": "Chapter III. The Dominant Primordial Beast"
+   },
+   {
+    "n": 4,
+    "title": "Chapter IV. Who Has Won to Mastership"
+   },
+   {
+    "n": 5,
+    "title": "Chapter V. The Toil of Trace and Trail"
+   },
+   {
+    "n": 6,
+    "title": "Chapter VI. For the Love of a Man"
+   },
+   {
+    "n": 7,
+    "title": "Chapter VII. The Sounding of the Call"
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "wild-1",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 1,
+   "stem": "Where does Buck live at the start of the story?",
+   "choices": [
+    "Judge Miller's place",
+    "A trading post in Alaska",
+    "A sheep farm in Oregon",
+    "A ship's deck in Seattle"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge Miller’s place, it was called."
+    }
+   ],
+   "explanation": "Buck starts out comfortable and spoiled in sunny California, which makes the North feel even harsher.",
+   "source": "seed",
+   "position": 0.004
+  },
+  {
+   "id": "wild-2",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 1,
+   "stem": "Why does Manuel, the gardener's helper, sell Buck?",
+   "choices": [
+    "He needs money for his gambling",
+    "Judge Miller told him to",
+    "Buck bit one of the children",
+    "He wanted a smaller dog"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "Manuel had one besetting sin. He loved to play Chinese lottery."
+    }
+   ],
+   "explanation": "Manuel's gambling needs money his wages can't cover, so he secretly sells Buck.",
+   "source": "seed",
+   "position": 0.024
+  },
+  {
+   "id": "wild-3",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "theme",
+   "level": 3,
+   "chapter": 1,
+   "stem": "After the man in the red sweater beats him, what lesson does Buck learn?",
+   "choices": [
+    "A man with a club must be obeyed",
+    "Humans are always kind to dogs",
+    "Fighting back always wins",
+    "He should escape at night"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 1,
+     "quote": "a man with a club was a lawgiver, a master to be obeyed, though not necessarily conciliated"
+    }
+   ],
+   "explanation": "This is the first 'law' of his new life: power, not kindness, decides who rules. It's the start of the book's idea of survival.",
+   "source": "seed",
+   "position": 0.091
+  },
+  {
+   "id": "wild-4",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 2,
+   "stem": "What happens to Curly, the friendly Newfoundland?",
+   "choices": [
+    "Huskies kill her",
+    "She runs away",
+    "She falls through ice",
+    "She is sold to a miner"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 2,
+     "quote": "she, in her friendly way, made advances to a husky dog the size of a full-grown wolf"
+    }
+   ],
+   "explanation": "Curly tries to be friendly and is attacked by the huskies. Buck learns that in the North there is no fair play.",
+   "source": "seed",
+   "position": 0.123
+  },
+  {
+   "id": "wild-5",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "vocab",
+   "level": 2,
+   "chapter": 3,
+   "stem": "\"The dominant primordial beast was strong in Buck.\" What does primordial mean?",
+   "choices": [
+    "Ancient, from the earliest times",
+    "Gentle, friendly, and calm",
+    "Sick and weak from hunger",
+    "Newly trained by its owner"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 3,
+     "quote": "The dominant primordial beast was strong in Buck, and under the fierce conditions of trail life it grew and grew."
+    }
+   ],
+   "explanation": "Primordial means existing from the very beginning. London means the wild instincts of Buck's ancestors are waking up.",
+   "source": "seed",
+   "position": 0.222
+  },
+  {
+   "id": "wild-6",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "character",
+   "level": 2,
+   "chapter": 3,
+   "stem": "In the final fight with Spitz, what quality lets Buck win?",
+   "choices": [
+    "Imagination: he fights with his head",
+    "Size: he is far bigger",
+    "Speed: he simply runs faster",
+    "Luck: Spitz slips on the ice"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 3,
+     "quote": "But Buck possessed a quality that made for greatness—imagination. He fought by instinct, but he could fight by head as well."
+    }
+   ],
+   "explanation": "Buck fakes the shoulder move and goes low instead. He thinks his way to the win.",
+   "source": "seed",
+   "position": 0.375
+  },
+  {
+   "id": "wild-7",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "inference",
+   "level": 2,
+   "chapter": 5,
+   "stem": "What does Buck notice about his new owners' camp, and what does it suggest?",
+   "choices": [
+    "It's a mess, so they don't know the trail",
+    "It's spotless, so they're experts",
+    "It's empty, so they've left",
+    "It's full of dogs, so they're rich"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 5,
+     "quote": "a slipshod and slovenly affair, tent half stretched, dishes unwashed, everything in disorder"
+    }
+   ],
+   "explanation": "The messy camp is a warning: Hal, Charles, and Mercedes have no idea how to survive on the trail.",
+   "source": "seed",
+   "position": 0.505
+  },
+  {
+   "id": "wild-8",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "cause",
+   "level": 2,
+   "chapter": 5,
+   "stem": "What does John Thornton warn Hal about before Hal drives the team on?",
+   "choices": [
+    "The rotten ice on the river",
+    "Wolves in the nearby woods",
+    "A coming snowstorm",
+    "Thieves on the trail"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 5,
+     "quote": "Thornton’s warning to take no more chances on the rotten ice"
+    }
+   ],
+   "explanation": "Hal ignores the warning. The ice gives way and the sled, the three people, and the dogs go into the river, except Buck, whom Thornton saved.",
+   "source": "seed",
+   "position": 0.625
+  },
+  {
+   "id": "wild-9",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "detail",
+   "level": 1,
+   "chapter": 6,
+   "stem": "How much weight does Thornton bet that Buck can start and pull?",
+   "choices": [
+    "A thousand pounds",
+    "Two hundred pounds",
+    "Five hundred pounds",
+    "Ten thousand pounds"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 6,
+     "quote": "“Buck can start a thousand pounds.”"
+    }
+   ],
+   "explanation": "Thornton brags that Buck can start a thousand-pound sled and pull it a hundred yards, and Buck does it.",
+   "source": "seed",
+   "position": 0.754
+  },
+  {
+   "id": "wild-10",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "inference",
+   "level": 3,
+   "chapter": 7,
+   "stem": "What finally frees Buck to answer the call of the wild?",
+   "choices": [
+    "Thornton's death breaks his last tie",
+    "He beats the wolf pack's leader",
+    "His old master calls him home",
+    "Hunger drives him into the woods"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 7,
+     "quote": "John Thornton was dead. The last tie was broken. Man and the claims of man no longer bound him."
+    }
+   ],
+   "explanation": "Love for Thornton was the only thing keeping Buck with humans. With Thornton gone, nothing holds him back.",
+   "source": "seed",
+   "position": 0.973
+  },
+  {
+   "id": "wild-11",
+   "bookId": "call-of-the-wild",
+   "type": "choice",
+   "skill": "theme",
+   "level": 3,
+   "chapter": 7,
+   "stem": "The Yeehats tell of a \"Ghost Dog\" that runs at the head of the pack. What does this ending suggest about Buck?",
+   "choices": [
+    "He has become a legend of the wild",
+    "He died and haunts the forest",
+    "The Yeehats have tamed him",
+    "He has returned to California"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "chapter": 7,
+     "quote": "the Yeehats tell of a Ghost Dog that runs at the head of the pack"
+    }
+   ],
+   "explanation": "Buck didn't die; he became something people tell stories about. His change from pet to wild leader is complete.",
+   "source": "seed",
+   "position": 0.991
+  },
+  {
+   "id": "wild-order-1",
+   "bookId": "call-of-the-wild",
+   "type": "order",
+   "skill": "sequence",
+   "level": 1,
+   "chapter": 3,
+   "stem": "Put these events in the order they happen.",
+   "events": [
+    {
+     "text": "Manuel's gambling leads him to sell Buck",
+     "evidence": {
+      "chapter": 1,
+      "quote": "Manuel had one besetting sin. He loved to play Chinese lottery."
+     }
+    },
+    {
+     "text": "Buck learns the law of the man with the club",
+     "evidence": {
+      "chapter": 1,
+      "quote": "a man with a club was a lawgiver, a master to be obeyed"
+     }
+    },
+    {
+     "text": "The huskies kill Curly",
+     "evidence": {
+      "chapter": 2,
+      "quote": "made advances to a husky dog the size of a full-grown wolf"
+     }
+    },
+    {
+     "text": "Buck uses imagination to beat Spitz",
+     "evidence": {
+      "chapter": 3,
+      "quote": "But Buck possessed a quality that made for greatness—imagination."
+     }
+    }
+   ],
+   "explanation": "Buck is stolen, beaten into obedience, learns the harsh rules of the pack, and then takes over as leader.",
+   "source": "seed",
+   "order": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "position": 0.024
+  },
+  {
+   "id": "wild-order-2",
+   "bookId": "call-of-the-wild",
+   "type": "order",
+   "skill": "sequence",
+   "level": 2,
+   "chapter": 7,
+   "stem": "Put these events in the order they happen.",
+   "events": [
+    {
+     "text": "Buck sees his new owners' messy camp",
+     "evidence": {
+      "chapter": 5,
+      "quote": "a slipshod and slovenly affair, tent half stretched, dishes unwashed"
+     }
+    },
+    {
+     "text": "Thornton warns Hal about the rotten ice",
+     "evidence": {
+      "chapter": 5,
+      "quote": "Thornton’s warning to take no more chances on the rotten ice"
+     }
+    },
+    {
+     "text": "Thornton bets Buck can start a thousand pounds",
+     "evidence": {
+      "chapter": 6,
+      "quote": "“Buck can start a thousand pounds.”"
+     }
+    },
+    {
+     "text": "Buck's last tie to people is broken",
+     "evidence": {
+      "chapter": 7,
+      "quote": "John Thornton was dead. The last tie was broken."
+     }
+    }
+   ],
+   "explanation": "Hal's team fails, Thornton saves Buck, Buck proves his loyalty, and losing Thornton sets him free.",
+   "source": "seed",
+   "order": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "position": 0.505
+  }
+ ]
+}

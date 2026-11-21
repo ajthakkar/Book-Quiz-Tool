@@ -1,4 +1,6 @@
-import { GradeLevel } from "./types";
+/* The v1 prompt, kept unchanged so the evaluation can compare against it.
+   v1 sent only the book's title: the model never saw the text. */
+export type GradeLevel = "K-2" | "3-5" | "6-8" | "9-12" | "college";
 
 function getLevelConfig(grade: GradeLevel) {
   switch (grade) {
