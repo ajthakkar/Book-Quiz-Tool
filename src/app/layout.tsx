@@ -6,7 +6,7 @@ const sans = Inter({ variable: "--font-sans-face", subsets: ["latin"] });
 const serif = Source_Serif_4({ variable: "--font-serif-face", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Book Quiz Tool",
+  title: "Chapter & Verse",
   description:
     "Reading-comprehension quizzes written from the full text of public-domain books, with every answer checked against the page it came from.",
 };

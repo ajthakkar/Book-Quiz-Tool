@@ -28,7 +28,7 @@ jobs:
       - run: npm run validate -- --strict
       - run: npm run build
         env:
-          BASE_PATH: /Book-Quiz-Tool
+          BASE_PATH: /chapter-and-verse
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

@@ -120,7 +120,7 @@ export default function QuizApp({ banks }: { banks: BankFile[] }) {
         >
           <span className="flex items-center gap-2 font-serif text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
             <BookOpen aria-hidden="true" className="h-6 w-6 text-accent" />
-            Book Quiz
+            Chapter &amp; Verse
           </span>
           <span className="mt-1 block text-sm text-muted">Questions written from the book itself, and checked against it.</span>
         </button>

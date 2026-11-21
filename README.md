@@ -1,12 +1,14 @@
-# Book Quiz Tool
+# Chapter & Verse
+
+*To cite chapter and verse: to point to the exact source.*
 
 Reading-comprehension quizzes written from the **full text** of a book, where every answer has to point to the passage it came from, and a checker confirms that passage is really in the book before the question can be used.
 
-**Try it:** [ajthakkar.github.io/Book-Quiz-Tool](https://ajthakkar.github.io/Book-Quiz-Tool/). Pick your grade, a book, and how far you've read.
+**Try it:** [ajthakkar.github.io/chapter-and-verse](https://ajthakkar.github.io/chapter-and-verse/). Pick your grade, a book, and how far you've read.
 
 ## The problem with version 1
 
-The first version (June 2026, still in the git history) asked Claude for a quiz given only a book's **title**. The model never saw the book. So the questions came from what's written *about* the book (summaries, study guides, the movie) and skewed to the same few famous scenes. There was also no way to check an answer key, and a student who had only read a summary could pass.
+The first version (June 2026, then called Book Quiz Tool, still in the git history) asked Claude for a quiz given only a book's **title**. The model never saw the book. So the questions came from what's written *about* the book (summaries, study guides, the movie) and skewed to the same few famous scenes. There was also no way to check an answer key, and a student who had only read a summary could pass.
 
 ## What version 2 does
 
